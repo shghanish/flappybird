@@ -4,7 +4,7 @@ import pygame
 from pygame.locals import *
 
 # Variables
-FPS = 30
+FPS = 35
 SCREENWIDTH = 289
 SCREENHEIGHT = 511
 SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
